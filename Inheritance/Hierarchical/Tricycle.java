@@ -5,6 +5,7 @@ public class Tricycle extends Vehicle{
 
     public Tricycle(String name,String color){
         this.name = name;
+        this.color = color;
     }
 
     public Tricycle(){

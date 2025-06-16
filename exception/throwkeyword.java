@@ -8,7 +8,7 @@ public class throwkeyword {
         }
     }
     public static void main(String[] args) {
-        validate(18);
+        validate(17);
         System.out.println("rest");
     }
 }
